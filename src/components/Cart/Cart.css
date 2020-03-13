@@ -1,0 +1,19 @@
+.cart-info p{
+    font-family: cursive;
+    
+}
+.cart-info h3{
+    font-size: 27px;
+}
+.order-history-btn{
+    margin-top: 15px;
+    background-color: goldenrod;
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
